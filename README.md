@@ -76,7 +76,7 @@ fgo24-react-hooks/
 ├── src/
 │   ├── assets/            # Images and media
 │   ├── pages/
-        RickAndMorty.jsx
+          RickAndMorty.jsx
 │   ├── App.jsx            # Main App component
 │   ├── main.jsx           # Entry point
 │   └── index.css          # Tailwind CSS imports
