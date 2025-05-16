@@ -5,7 +5,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-This project showcases the implementation and usage of React Hooks in modern web applications. Built as part of the FGO24 (Fullstack Golang Batch 24 Koda Academy) bootcamp, it demonstrates how hooks can simplify state management and side effects in functional components, all within a fast Vite development environment.
+This project showcases the implementation and usage of React Hooks in modern web applications. Built as part of the FGO24 (Fullstack Golang Batch 24 Fazztrack or Batch 2 Koda Academy) bootcamp, it demonstrates how hooks can simplify state management and side effects in functional components, all within a fast Vite development environment.
 
 ## ✨ Features
 
